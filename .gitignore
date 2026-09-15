@@ -1,0 +1,30 @@
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Bytecode e cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints e cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Distribuição e builds
+build/
+dist/
+*.egg-info/
+
+# Arquivos de sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de log
+*.log
